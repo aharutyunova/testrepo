@@ -1,3 +1,3 @@
 print(10)
 print(50)
-print(15)
+print(10)
